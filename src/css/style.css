@@ -224,12 +224,17 @@
   font-size: 36px;
   font-weight: 700;
   text-transform: uppercase;
+  text-align: center;
 }
 
 .title_left {
   text-align: left;
   color: #ffffff;
   font-size: 36px;
+}
+
+.title_black {
+  color: black;
 }
 
 .feed-form {
